@@ -1,0 +1,21 @@
+{
+  "name": "angular-load-button",
+  "description": "Angular button that allows showing an 'is loading' message.",
+  "main": "src/angular-load-button.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "button",
+    "load"
+  ],
+  "authors": [
+    "Luccas Correa"
+  ],
+  "license": "Apache License 2.0",
+  "homepage": "https://github.com/estudio89/angular-load-button",
+  "ignore": [
+  	"bower.json",
+  	"LICENSE",
+  	"NOTICE"
+  ]
+}
